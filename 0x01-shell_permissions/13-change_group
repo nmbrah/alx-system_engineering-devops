@@ -1,2 +1,3 @@
 #!/bin/bash
 chown hello:school
+chown hello:school *
